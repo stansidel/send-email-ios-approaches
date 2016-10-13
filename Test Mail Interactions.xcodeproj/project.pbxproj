@@ -16,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2C3A58B31DAF5DF70079A6F0 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		2C8FB9AA1DADEDF6003EC775 /* Test Mail Interactions.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Test Mail Interactions.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2C8FB9AD1DADEDF6003EC775 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2C8FB9AF1DADEDF6003EC775 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -40,6 +41,7 @@
 		2C8FB9A11DADEDF6003EC775 = {
 			isa = PBXGroup;
 			children = (
+				2C3A58B31DAF5DF70079A6F0 /* README.md */,
 				2C8FB9AC1DADEDF6003EC775 /* Test Mail Interactions */,
 				2C8FB9AB1DADEDF6003EC775 /* Products */,
 			);
@@ -306,6 +308,7 @@
 				2C8FB9BE1DADEDF6003EC775 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
